@@ -200,10 +200,11 @@ curl -X GET \
 
 ```
 
-**Password for all ID.me accounts: Password1234!**
+**Password for all ID.me accounts: Password1234!** 
 
 
 |Email|First Name|Middle Name|Last Name|Sex| Birthdate |SSN|
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+||Jeffery||Hayes|M|1937-09-25|796131729|
 |va.api.user+idme.001@gmail.com|Tamara|E|Ellis|F|1967-06-19|796130115|
 |va.api.user+idme.007@gmail.com|John|| Doe |M|||
